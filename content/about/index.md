@@ -22,7 +22,7 @@ Feel free to connect Peter at Github and Linkedin, leave your thoughts in this b
 ## Presentations, Podcasts, and  Videos
 |Year | City | Conference | Title | Content |Video |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-|2013|Cambridge, MA|OpenStack Meetup|[Grizzly/Hyper-V Preview](https://www.slideshare.net/slideshow/open-stackbostonmeetup-20130314/17723308)|[Slides](https://www.slideshare.net/slideshow/open-stackbostonmeetup-20130314/17723308)|n/a]
+|2013|Cambridge, MA|OpenStack Meetup|[Grizzly/Hyper-V Preview](https://www.slideshare.net/slideshow/open-stackbostonmeetup-20130314/17723308)|[Slides](https://www.slideshare.net/slideshow/open-stackbostonmeetup-20130314/17723308)|n/a|
 |2013|Portland, OR|[OpenStack Summit](https://www.openstack.org/summit/portland-2013/)|[Hyper-V Grizzly Features Exposed](https://www.youtube.com/watch?v=cKa_QmfNpPI)|[slides]()|[Video](https://www.youtube.com/watch?v=cka_QmfNpPI)|
 |2017|Boston, MA|[OpenStack Summit](https://www.openstack.org/summit/boston-2017/)|[Fast Path for Deploying and Running an OpenStack CI](https://www.openstack.org/videos/summits/boston-2017/fast-path-for-deploying-and-running-an-openstack-ci)|n/a|[Video](https://www.youtube.com/watch?v=grth5RguQmo)|
 |2017|Boston, MA|[OpenStack Summit](https://www.openstack.org/summit/boston-2017/)|[OpenStack and Windows: What's new in Ocata](https://www.openstack.org/videos/summits/boston-2017/openstack-and-windows-whats-new-in-ocata)|n/a|[Video](https://www.youtube.com/watch?v=grth5RguQmo)|
