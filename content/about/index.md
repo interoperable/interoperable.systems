@@ -23,7 +23,8 @@ Feel free to connect Peter at Github and Linkedin, leave your thoughts in this b
 |Year         |City        |Conference  | Title      |Slides      |Video       |
 | ----------- |----------- |----------- |----------- |----------- |----------- |
 |2019|Centos Dojo|[DevConfUS2019](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2x3YXA3OUFiYktNQ3JvbXp2OFQ1b2NNempBUXxBQ3Jtc0ttdXA0bzRDeXdnR0pxVlBFMUVBdWdZX004ODVNRHMwS2xaQnNhZHRlU01YaXdabUZJTHRKSVd2eHo0dXZSQ0U4SnUwTDZyMENseWREX2xFM2QzWnBwQlVTb2RyczRMMGJkN2VkaG55bm93VUhTVzhtOA&q=https%3A%2F%2Fwiki.centos.org%2FEvents%2FDojo%2FDevConfUS2019&v=ZhaOpZ0joPU)|[Centos Dojo: Introductino to Ampere Computing](https://www.youtube.com/watch?v=ZhaOpZ0joPU)|[slides](https://www.youtube.com/watch?v=ZhaOpZ0joPU)|[Video](https://www.youtube.com/watch?v=ZhaOpZ0joPU)|
-|2022|Virtual|[Meet the Arm DevSummt Speakers: Peter Pouliot from Ampere & Manish Kapur & Sanjay Pillai from Oracle](https://www.youtube.com/watch?v=3F5EnHRPCI4)|[](https://www.youtube.com/watch?v=3F5EnHRPCI4)|[slides](https://www.youtube.com/watch?v=3F5EnHRPCI4)|[Video](https://www.youtube.com/watch?v=3F5EnHRPCI4)|
+|2022|Virtual|[FreeBSD Vendor Summit 2022](https://wiki.freebsd.org/DevSummit/202211)|[November 2022 FreeBSD Vendor Summit: Getting Cloud-Native with FreeBSD on OCI Ampere A1](https://www.youtube.com/watch?v=BPc_TEiUoCg)|[slides](https://amperecomputing.com/blogs/getting-cloud-native-with-freebsd-on-oci-ampere-a1-with-terraform-)|[Video](https://www.youtube.com/watch?v=3F5EnHRPCI4)|
+|2022|Virtual|[Arm Dev Summit 2022](https://www.youtube.com/watch?v=3F5EnHRPCI4)|[Meet the Arm DevSummt Speakers: Peter Pouliot from Ampere & Manish Kapur & Sanjay Pillai from Oracle](https://www.youtube.com/watch?v=3F5EnHRPCI4)|[slides](https://www.youtube.com/watch?v=3F5EnHRPCI4)|[Video](https://www.youtube.com/watch?v=3F5EnHRPCI4)|
 
 ## Open Source Projects
 |Project      |Role        |  Website   | GitHub     |
