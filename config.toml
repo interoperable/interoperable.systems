@@ -88,8 +88,14 @@ home = ["HTML", "RSS", "Algolia"]
   #git           = "full profile url for git user"
   
   [[params.friend_link]]
+  title = "Cloudbase Solutions"
+  href = "https://cloudbase.it"
+  [[params.friend_link]]
   title = "Adam Young's Web Log"
   href =  "https://adam.younglogic.com"
+  [[params.friend_link]]
+  title = "Klara Systems"
+  href = "https://klarasystems.com/"
 
   [[params.bookmark_link]]
   title =  "SlashDot"
