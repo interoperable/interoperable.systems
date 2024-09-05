@@ -19,16 +19,7 @@ While he is free, he likes learning new things, gardening, fishing and hiking.
 
 Feel free to connect Peter at Github and Linkedin, leave your thoughts in this blog or share your ideas by [writing him an email](mailto:peter@pouliot.net). 
 
-## Publications
-| Title       |Type        |Publisher   |Link        |
-| ----------- |----------- |----------- |----------- |
-|[Istio Service Mesh Advanced Practical](https://www.zhaohuabing.com/post/2021-08-26-istio-handbook/)|Book|电子工业出版社|[Buy now](https://item.jd.com/13200745.html)|
-|[Distributed Tracing with Jaeger, Kubernetes, and Istio](https://www.zhaohuabing.com/post/2021-09-08-distributed-tracing-with-jaeger-kubernetes-and-istio/)|Live Project|Manning|[30% off](https://www.manning.com/liveprojectseries/distributed-tracing-ser)|
-|[Cloud Native Data Center Networking](https://zhaohuabing.com/post/2021-08-27-cloud-native-data-center)|Translation|中国电力出版社|[Buy now](https://item.jd.com/12929975.html)|
-|[Istio Operation Bible](http://localhost:1313/post/2021-10-08-istio-operation-bible/)|ebook||[Read online](https://istio-operation-bible.aeraki.net/)|
-
-
-## Presentations (Selected)
+## Presentations, Podcasts, and  Videos
 |Year         |City        |Conference  | Title      |Slides      |Video       |
 | ----------- |----------- |----------- |----------- |----------- |----------- |
 |2019|Centos Dojo|[DevConfUS2019](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2x3YXA3OUFiYktNQ3JvbXp2OFQ1b2NNempBUXxBQ3Jtc0ttdXA0bzRDeXdnR0pxVlBFMUVBdWdZX004ODVNRHMwS2xaQnNhZHRlU01YaXdabUZJTHRKSVd2eHo0dXZSQ0U4SnUwTDZyMENseWREX2xFM2QzWnBwQlVTb2RyczRMMGJkN2VkaG55bm93VUhTVzhtOA&q=https%3A%2F%2Fwiki.centos.org%2FEvents%2FDojo%2FDevConfUS2019&v=ZhaOpZ0joPU)|[Centos Dojo: Introductino to Ampere Computing](https://www.youtube.com/watch?v=ZhaOpZ0joPU)|[slides](https://www.youtube.com/watch?v=ZhaOpZ0joPU)|[Video](https://www.youtube.com/watch?v=ZhaOpZ0joPU)|
