@@ -23,6 +23,7 @@ Feel free to connect Peter at Github and Linkedin, leave your thoughts in this b
 |Year | Location | Source | Title | Content |Video |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |2011|Boston, MA|OpenStack Summit|[OpenStack/Hyper-V Clouds](https://www.slideshare.net/slideshow/2011-essex-summit-openstackhyperv-clouds/13759984)|[Slides](https://www.slideshare.net/slideshow/2011-essex-summit-openstackhyperv-clouds/13759984)|n/a|
+|2012|Quote|[Microsoft](https://microsoft.com)|[InfoWorld](https://www.infoworld.com/article/2290526/microsoft-developing-hyper-v-support-for-openstack-2.html)|[Blog](https://www.infoworld.com/article/2290526/microsoft-developing-hyper-v-support-for-openstack-2.html)|n/a|
 |2012|San Diego, CA|OpenStack Summit|[Hyper-V and OpenStack Deep-Dive](https://www.openstack.org/videos/summits/san-diego-2012/hyper-v-and-openstack-deep-dive)|n/a|[Video](https://youtu.be/M1NqqTLST3s)|
 |2013|Cambridge, MA|OpenStack Meetup|[Grizzly/Hyper-V Preview](https://www.slideshare.net/slideshow/open-stackbostonmeetup-20130314/17723308)|[Slides](https://www.slideshare.net/slideshow/open-stackbostonmeetup-20130314/17723308)|n/a|
 |2013|Portland, OR|[OpenStack Summit](https://www.openstack.org/summit/portland-2013/)|[Hyper-V Grizzly Features Exposed](https://www.youtube.com/watch?v=cKa_QmfNpPI)|n/a|[Video](https://www.youtube.com/watch?v=cka_QmfNpPI)|
