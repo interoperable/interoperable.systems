@@ -1,10 +1,10 @@
 ---
 layout:     post 
-title:      "Welcome to Zhaohuabing Blog"
+title:      "Welcome to Interoperable Systems"
 subtitle:   "Hello World, Hello Blog"
-date:       2017-11-04
-author:     "赵化冰"
-URL: "/2017/11/03/hello-world/"
+date:       2024-09-05
+author:     "Peter Pouliot"
+URL: "/2024/09/05/hello-world/"
 image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
 ---
 

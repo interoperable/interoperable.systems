@@ -13,8 +13,8 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
-  SEOTitle = "赵化冰的博客 | Zhaohuabing Blog"
+  header_image = "img/bellsneck.png"
+  SEOTitle = "Interoperable.Systems"
   description = "Interoperable"
   keyword = "Interoperable, Interoperable Systems, Peter Pouliot, Pouliot, Interoperable Systems Blog, Interopable Blog, Open Source, Virtualization, Cloud-Native, Kubernetes, Microservice"
   slogan = "'Peter's one of the most interoperable people in Open Source' - Adam Young"
