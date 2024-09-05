@@ -1,4 +1,4 @@
-baseurl = "https://interoperable.github.io/hugo-interoperable.systems/"
+baseurl = "https://interoperable.systems/"
 title = "Interoperable Systems"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
