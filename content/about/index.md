@@ -19,8 +19,8 @@ While he is free, he likes learning new things, gardening, fishing and hiking.
 
 Feel free to connect Peter at Github and Linkedin, leave your thoughts in this blog or share your ideas by [writing him an email](mailto:peter@pouliot.net). 
 
-## Presentations, Podcasts, and  Videos
-|Year | City | Conference | Title | Content |Video |
+## Presentations, Podcasts, Quotes, and  Videos
+|Year | Location | Source | Title | Content |Video |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |2013|Cambridge, MA|OpenStack Meetup|[Grizzly/Hyper-V Preview](https://www.slideshare.net/slideshow/open-stackbostonmeetup-20130314/17723308)|[Slides](https://www.slideshare.net/slideshow/open-stackbostonmeetup-20130314/17723308)|n/a|
 |2013|Portland, OR|[OpenStack Summit](https://www.openstack.org/summit/portland-2013/)|[Hyper-V Grizzly Features Exposed](https://www.youtube.com/watch?v=cKa_QmfNpPI)|n/a|[Video](https://www.youtube.com/watch?v=cka_QmfNpPI)|
