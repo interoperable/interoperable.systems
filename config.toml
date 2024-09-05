@@ -1,5 +1,5 @@
 baseurl = "https://interoperable.github.io/hugo-interoperable.systems/"
-title = "Interoperable Blog"
+title = "Interoperable Systems"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
