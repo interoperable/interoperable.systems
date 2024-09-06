@@ -54,6 +54,7 @@ Feel free to connect Peter at Github and Linkedin, leave your thoughts in this b
 |2023|San Jose, CA|[Open Compute Summit](https://www.opencompute.org/events/past-events/2023-ocp-global-summit)[The state of Arm firmware standards and OSF on Ampere server platforms](https://www.youtube.com/watch?v=qN3TFnIK-E0)|n/a|[Video](https://www.youtube.com/watch?v=qN3TFnIK-E0)|
 |2024|Virtual|[Sidero Labs](https://www.siderolabs.com/)|[Bootstrapping Talos Linux on Ampere](https://www.linkedin.com/events/7199538351194992640/comments/)|n/a|[Video](https://www.linkedin.com/events/7199538351194992640/comments/)|
 |2024|Paris, France|[Kubecon & CloudNative Con](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)|[Keynote Panel Discussion: Optimizing Performance and Sustainability for AI](https://www.youtube.com/watch?v=VcMOr1DtTWM&list=PLj6h78yzYM2N8nw1YcqqKveySH6_0VnI0)|n/a|[Video](https://www.youtube.com/watch?v=VcMOr1DtTWM&list=PLj6h78yzYM2N8nw1YcqqKveySH6_0VnI0&index=7)|
+|2024|Paris, France|[Kubecon & CloudNative Con](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)|[Ampere x SUSE at KubeCon EU](https://www.youtube.com/watch?v=1Cjgrzpgu1gx)|n/a|[Video](https://www.youtube.com/watch?v=1Cjgrzpgu1g)|
 
 ## Open Source Projects
 |Project      |Role        |  Website   | GitHub     |
