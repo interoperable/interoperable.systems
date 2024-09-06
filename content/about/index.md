@@ -43,6 +43,7 @@ Feel free to connect Peter at Github and Linkedin, leave your thoughts in this b
 |2023|Virtual|[Oracle Pi Day 2023 - Europe, Middle East and Africa](https://blogs.oracle.com/developers/post/pi-day-2023-announcement)|[Pi Day 2023: Zero to Cloud Native Application in 60 Minutes](https://go.oracle.com/LP=134861?elqCampaignId=405434)|[Blog](https://amperecomputing.com/blogs/pi-day-2023)|[Video](https://www.youtube.com/watch?v=H4NIP68M--I)|
 |2023|Virtual|[Matt Ray's Software Defined Talk](https://softwaredefinedtalk.com)|[Devrel at a hardware company](https://softwaredefinedtalk.com/405)|[Podcast](https://www.softwaredefinedtalk.com/405?t=0)|n/a|
 |2023|Virtual|[The LinBit Storage Day](https://linbit.com/linbit-storage-day-linbit-sds-apache-cloudstack/): [Building Next-Generation IaaS, featuring ShapeBlue and Ampere](https://www.shapeblue.com/building-next-generation-iaas-event-roundup/)|[Ampere Altra + LINBIT SDS + CloudStack](https://www.youtube.com/watch?v=qXjVTOr07DI&t=1s)|[Slides](https://www.slideshare.net/slideshow/ampere-altra-linbit-sds-cloudstack/262133736?from_search=2)|[Video](https://www.youtube.com/watch?v=qXjVTOr07DI&t=1s)|
+|2023|Virtual|[Scaleway](www.scaleway.com)|[Scaleway Sessions #16: The ARM server revolution](https://www.youtube.com/watch?v=htDv5v2M7_A)|n/a|[Video](https://www.youtube.com/watch?v=htDv5v2M7_A)|
 
 ## Open Source Projects
 |Project      |Role        |  Website   | GitHub     |
