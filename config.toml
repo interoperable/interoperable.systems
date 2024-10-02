@@ -105,14 +105,11 @@ home = ["HTML", "RSS", "Algolia"]
   href =  "http://www.capecodtimes.com"
   
   [[params.addtional_menus]]
-  title =  "ARCHIVE"
-  href =  "/archive/"
-  [[params.addtional_menus]]
-  title =  "NOTES"
-  href =  "/notes/"
-  [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/about/"
+  [[params.addtional_menus]]
+  title =  "Presentations"
+  href =  "/presentations/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
