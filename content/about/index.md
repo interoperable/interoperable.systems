@@ -4,20 +4,14 @@ multilingual: false
 ---
 
 ## About Me
-**_Peter_Pouliot_** is a technologist, philosopher. He has a solid experience in the information and telecommunication technology industry for more than 28 years. 
+I am a technologist, philosopher with solid experience in the information and telecommunication technology industry for more than 28 years. 
+I currently work at Ampere Computing, enabling Open Source Software for Aarch64 servers in the datacenter, and enabling Aarch64 native OSS server based cloud computing.
 
-Throughout his career, he has built a number of large-scale, cross-country software systems, most of them are still running in production. 
+I previously helped to maintain OpenStack integration with Microsoft's Virtualization platform Hyper-V and was Microsoft's OpenStack subject matter expert.
 
-He loves open source and has been contributing to various open source projects.
+Prior to Microsoft I worked for Novell in the Joint Interoperabilty Lab with Microsoft.  There our team focused on testing and validating Linux workloads on Hyper-V and Windows workloads on Xen and KVM.  In April 2011 I successfully deployed the first OpenStack Cloud using Hyper-V and began my evangelism for Hyper-V within the OpenStack community. Additional experience includes Devops automation and testing, network and datacenter infrastructure and security, Operating System and Virtualization interoperability.
 
-He also has strong interests in various technical topics such as Virtualization Infrastructure, Cloud Native, Artificial Intelligence, Smart Home, Gardening, etc. He love sharing his ideas about these things in his blog.
-
-Peter holds a BS in Philosophy from Rhode Island College in Providence, Rhode Island.  Peter holds a Certificate in Windows NT Administration from Boston University Corporate Education Center Computer Career Programs and a Masters of Science in Telecommunication Security, and Graduate Certificate in Digital Forensics from Boston Universtity in Boston, Massachusetts. 
-Currently, Peter works as a senior developer advocate at [Ampere Computing](https://amperecomputing.com/). For now, his main focus is green computing infrastructure and transitioning computing architectures within opensource software, virtualization, AI, and cloud-native technology ecosystems.
-
-While he is free, he likes learning new things, gardening, fishing and hiking.
-
-Feel free to connect Peter at Github and Linkedin, leave your thoughts in this blog or share your ideas by [writing him an email](mailto:peter@pouliot.net). 
+I arrived at Novell through the acquistion of Ximian, the company that created the commercial linux desktop (Gnome), where I was thier Windows and Microsoft Exchange expert working on the Evolution Connector for Microsoft Exhcange, the first email client/group messengerfor Linux and Unix to work with Microsoft Exchange. 
 
 ## Presentations, Podcasts, Quotes, and  Videos
 |Year | Location | Source | Title | Content |Video |
