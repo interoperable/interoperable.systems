@@ -45,6 +45,7 @@ multilingual: false
 |2024|Paris, France|[Kubecon & CloudNative Con](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)|[Keynote Panel Discussion: Optimizing Performance and Sustainability for AI](https://www.youtube.com/watch?v=VcMOr1DtTWM&list=PLj6h78yzYM2N8nw1YcqqKveySH6_0VnI0)|n/a|[Video](https://www.youtube.com/watch?v=VcMOr1DtTWM&list=PLj6h78yzYM2N8nw1YcqqKveySH6_0VnI0&index=7)|
 |2024|Paris, France|[Kubecon & CloudNative Con](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)|[Ampere x SUSE at KubeCon EU](https://www.youtube.com/watch?v=1Cjgrzpgu1gx)|n/a|[Video](https://www.youtube.com/watch?v=1Cjgrzpgu1g)|
 |2024|Ampere Developer Impact Series|[FreeBSD Foundation](https://freebsdfoundation.org)|[Ampere powers Arm64 support for FreeBSD](https://www.youtube.com/watch?v=PB1xkYHSB6Y)|n/a|[Video](https://www.youtube.com/watch?v=PB1xkYHSB6Y))|
+|2025|London, England|SUSE booth - Kubecon EU 2025|n/a|[Video](https://x.com/SUSE/status/1925506934771523787)|
 
 ## Open Source Projects
 |Project      |Role        |  Website   | GitHub     |
