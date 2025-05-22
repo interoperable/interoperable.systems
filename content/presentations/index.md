@@ -44,8 +44,10 @@ multilingual: false
 |2024|Virtual|[Sidero Labs](https://www.siderolabs.com/)|[Bootstrapping Talos Linux on Ampere](https://www.linkedin.com/events/7199538351194992640/comments/)|n/a|[Video](https://www.linkedin.com/events/7199538351194992640/comments/)|
 |2024|Paris, France|[Kubecon & CloudNative Con](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)|[Keynote Panel Discussion: Optimizing Performance and Sustainability for AI](https://www.youtube.com/watch?v=VcMOr1DtTWM&list=PLj6h78yzYM2N8nw1YcqqKveySH6_0VnI0)|n/a|[Video](https://www.youtube.com/watch?v=VcMOr1DtTWM&list=PLj6h78yzYM2N8nw1YcqqKveySH6_0VnI0&index=7)|
 |2024|Paris, France|[Kubecon & CloudNative Con](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)|[Ampere x SUSE at KubeCon EU](https://www.youtube.com/watch?v=1Cjgrzpgu1gx)|n/a|[Video](https://www.youtube.com/watch?v=1Cjgrzpgu1g)|
-|2024|Ampere Developer Impact Series|[FreeBSD Foundation](https://freebsdfoundation.org)|[Ampere powers Arm64 support for FreeBSD](https://www.youtube.com/watch?v=PB1xkYHSB6Y)|n/a|[Video](https://www.youtube.com/watch?v=PB1xkYHSB6Y))|
+|2024|Ampere Developer Impact Series|[FreeBSD Foundation](https://freebsdfoundation.org)|[Ampere powers Arm64 support for FreeBSD](https://www.youtube.com/watch?v=PB1xkYHSB6Y)|n/a|[Video](https://www.youtube.com/watch?v=PB1xkYHSB6Y)|
+|2025|Blog|[AmpereComputing.com](https://amperecomputing.com)|[Leveraging the ShapeBlue and Ampere® Reference Architecture for IaaS Cloud on Arm64 Architecture](https://amperecomputing.com/blogs/shapeblue-and-ampere)|[blog](https://amperecomputing.com/blogs/shapeblue-and-ampere)|n/a|
 |2025|London, England|SUSE booth - Kubecon EU 2025|🚀 At #KubeCon Europe 2025 in London, we caught up with Peter Pouliot from @AmpereComputing to talk about the growing momentum behind the upcoming General Availability of SUSE Virtualization on Arm64. 👉Watch the video to learn more about building infrastructure on Ampere with #SUSE and their take on #AI inference.|n/a|[Video](https://x.com/SUSE/status/1925506934771523787)|
+
 
 ## Open Source Projects
 |Project      |Role        |  Website   | GitHub     |
