@@ -50,6 +50,14 @@ multilingual: false
 |2025|London, England|SUSE @ Kubecon EU 2025|🚀 At #KubeCon Europe 2025 in London, we caught up with Peter Pouliot from @AmpereComputing to talk about the growing momentum behind the upcoming General Availability of SUSE Virtualization on Arm64. 👉Watch the video to learn more about building infrastructure on Ampere with #SUSE and their take on #AI inference.|n/a|[Video](https://x.com/SUSE/status/1925506934771523787)|
 
 
+
+2024 – Amsterdam Neatherlands - Shapeblue cloudstack/Ceph Day - https://www.linkedin.com/posts/apachecloudstack_cloudstackandcephday-activity-7166360419614253057-Oc6I/
+
+2024 – Virtual - Canonical –  Data & AI Masters – 
+https://events.ringcentral.com/events/canonical-data-and-ai-masters/registration?utm_source=blog&utm_medium=organic&utm_campaign=701N100000CMIc5IAH&_gl=1*2dev4s*_ga*MTY0NDAwNTc0OC4xNzMwNzM0MzI4*_ga_5LTL1CNEJM*MTczMDczNDMyOC4xLjEuMTczMDczNDM0NS40NC4wLjA.*_gcl_au*MTM5ODMyMTk2OC4xNzMwNzM0MzMw
+
+
+
 ## Open Source Projects
 |Project      |Role        |  Website   | GitHub     |
 | ----------- |----------- |----------- |----------- |
