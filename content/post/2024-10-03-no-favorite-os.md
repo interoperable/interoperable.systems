@@ -7,6 +7,8 @@ author:     "Peter Pouliot"
 URL: "/2024/10/03/os-facination/"
 image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
 
+---
+
 ## Operating System Facination
 
 When you're the token "Windows" guy at the first linux desktop company, they don't know always know what to do with you.
