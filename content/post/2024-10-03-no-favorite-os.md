@@ -6,8 +6,10 @@ date:       2024-10-03
 author:     "Peter Pouliot"
 URL: "/2024/10/03/os-facination/"
 image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
-
 ---
+
+> "Operating Systems Facination"
+
 
 ## Operating System Facination
 
