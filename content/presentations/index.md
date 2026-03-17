@@ -50,7 +50,7 @@ multilingual: false
 |2024|Virtual|Canonical –  Data & AI Masters|https://events.ringcentral.com/events/canonical-data-and-ai-masters/registration?utm_source=blog&utm_medium=organic&utm_campaign=701N100000CMIc5IAH&_gl=1*2dev4s*_ga*MTY0NDAwNTc0OC4xNzMwNzM0MzI4*_ga_5LTL1CNEJM*MTczMDczNDMyOC4xLjEuMTczMDczNDM0NS40NC4wLjA.*_gcl_au*MTM5ODMyMTk2OC4xNzMwNzM0MzMw|n/a|n/a|
 |2025|Blog|[AmpereComputing.com](https://amperecomputing.com)|[Leveraging the ShapeBlue and Ampere® Reference Architecture for IaaS Cloud on Arm64 Architecture](https://amperecomputing.com/blogs/shapeblue-and-ampere)|[Blog](https://amperecomputing.com/blogs/shapeblue-and-ampere)|n/a|
 |2025|London, England|SUSE @ Kubecon EU 2025|🚀 At #KubeCon Europe 2025 in London, we caught up with Peter Pouliot from @AmpereComputing to talk about the growing momentum behind the upcoming General Availability of SUSE Virtualization on Arm64. 👉Watch the video to learn more about building infrastructure on Ampere with #SUSE and their take on #AI inference.|n/a|[Video](https://x.com/SUSE/status/1925506934771523787)|
-|2025|Kubecon NA Atlanta|Canonical|n/a|[video](https://youtube.com/shorts/phSSsr4k2a4?si=diNUKhSB-vCLabVb)|
+|2025|Kubecon NA Atlanta|Canonical|n/a|n/a|[video](https://youtube.com/shorts/phSSsr4k2a4?si=diNUKhSB-vCLabVb)|
 
 
 
